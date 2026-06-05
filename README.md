@@ -1,5 +1,5 @@
 # -_-ResNet-18
-从零开始的第一个项目
+从零开始的第一个项目，详细说明发在了CSDN[https://blog.csdn.net/Amarashi/article/details/161686431?spm=1011.2415.3001.5331].
 # Cat vs Dog Image Classification
 
 ## 项目简介
